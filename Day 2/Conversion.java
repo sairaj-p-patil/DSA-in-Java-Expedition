@@ -6,10 +6,16 @@ public class Conversion {
     
      Scanner sc = new Scanner(System.in);
 
-     float a =  3.22f;
-     int b = a;
+    //  float a =  3.22f;
+    //  int b =  a;   ///throws and error
+ 
+     int a =  3;
+     float b =  a;   
 
-     
+
+     System.out.println(b);
+
+
 
 
   }
