@@ -11,3 +11,10 @@ public class ques4xy {
 
     }
 }
+
+//-----ANSWER-----//
+// a = 63 , 36 
+// x = 63 < 36 ==  false
+// y = 63 > 36 == true
+//
+//
