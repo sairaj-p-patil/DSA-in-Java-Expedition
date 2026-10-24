@@ -23,7 +23,7 @@ public class quesswitch {
                break;
             case 7: System.out.println("Sunday") ;
                break;
-               default : System.out.println("Invalid");
+       default : System.out.println("Invalid");
         }
     }
 }
